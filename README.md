@@ -5,6 +5,8 @@ This repository aims to develop a set of guidelines, standards, norms, and proce
 
 In addition to serving as a reference for daily development tasks, the content of this repository can also be used as a guide for other technical teams such as research and ops teams.
 
+----
+
 ### Concepts
 In the following explanations, we attempt to distinguish the strictness of requirements using `MAY`, `SHOULD`, `MUST`, `SHOULD NOT`, and `MUST NOT`.
 
@@ -47,6 +49,7 @@ When compiling a process, the following should be followed:
 - Each step should be associated with at least one `checklist`, `norm`, `standard`, or other `process`.
 - When there are branching or dependency relationships between two steps, precise preconditions should be included.
 
+----
 
 ### Definition of Concepts
 
