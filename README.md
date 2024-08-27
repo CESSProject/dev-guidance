@@ -50,7 +50,7 @@ When compiling a process, the following should be followed:
 
 ### Definition of Concepts
 
-#### Process and Others
+#### Process and Checklist
 - A process can be derived from a checklist, norm, or standard; this transformation should still follow the requirements for compiling a process. For example, if a standard does not involve the execution of other checklists, norms, standards, or processes, it should remain in standard form and avoid being elevated to a process.
 - Conversely, a process can be downgraded to a checklist, norm, or standard; for example, if a process can be simplified and most branches and dependencies removed, it can be reduced to a checklist.
 
